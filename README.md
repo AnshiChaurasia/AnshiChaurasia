@@ -1,9 +1,5 @@
-<h1 align="center">👋 Hi, I'm <strong>Anshi Chaurasia</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Anshi</strong></h1>
 <h3 align="center">Full-Stack Developer | MERN | Computer Vision | DSA • 350+ Problems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnshiChaurasia&color=blueviolet&style=for-the-badge" />
-</p>
 
 ---
 
@@ -63,6 +59,7 @@
 - Secure JWT auth + RBAC  
 - Fast MongoDB queries with pipelines & indexing  
 - Cloudinary uploads + Razorpay payments  
+
 ---
 
 ## 🔹 YOLO Object Detection — Real-Time CV App  
@@ -100,18 +97,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnshiChaurasia&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshiChaurasia&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:anshichaurasia11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/anshi-chaurasia-a4a20a262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/AnshiChaurasia"><img src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
 </p>
 
