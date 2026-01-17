@@ -1,6 +1,4 @@
 <h1 align="center">👋 Hi, I'm <strong>Anshi</strong></h1>
-<h3 align="center">Full-Stack Developer | MERN | Computer Vision | DSA • 350+ Problems</h3>
-
 ---
 
 ## 🚀 About Me  
@@ -9,7 +7,7 @@
 - 🌐 Delivered **e-Parivar Web Platform** for 1000+ users  
 - 💻 MERN stack developer (frontend + backend)  
 - 🧠 Strong fundamentals in **DSA, OOP, DBMS**  
-- 🤖 Building Computer Vision & ML side projects  
+- 🤖 Building ML side projects  
 - 📈 Solved **350+ DSA problems** on LeetCode/GFG  
 - 🔍 Open to SDE / Full-Stack Internship opportunities  
 
@@ -100,7 +98,7 @@
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:anshichaurasia11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/anshi-chaurasia-a4a20a262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/anshi-chaurasia-a4a20a262"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/AnshiChaurasia"><img src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
 </p>
 
